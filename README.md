@@ -8,7 +8,7 @@
 <img width="2%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg">
 </h3>
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]()
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luisguzmanms/)
 
 
 Enamorado de la programación desde el 2017, mi teléfono móvil como principal herramienta. 
